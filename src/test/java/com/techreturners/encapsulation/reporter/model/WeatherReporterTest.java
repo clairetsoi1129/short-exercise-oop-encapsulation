@@ -1,9 +1,6 @@
-package com.techreturners.encapsulation.bankaccount.model;
+package com.techreturners.encapsulation.reporter.model;
 
 
-import com.techreturners.encapsulation.reporter.model.Location;
-import com.techreturners.encapsulation.reporter.model.Temperature;
-import com.techreturners.encapsulation.reporter.model.WeatherReporter;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
